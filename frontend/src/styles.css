@@ -14,3 +14,13 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .mat-card-title {
     margin-bottom: 25px !important;
 }
+
+.msg-success {
+    background-color: #28a745;
+    color: white;
+}
+
+.msg-error {
+    background-color: rgb(227, 94, 107);
+    color: white;
+}
